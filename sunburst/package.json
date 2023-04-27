@@ -1,0 +1,14 @@
+{
+  "name": "00e25318d3776113",
+  "main": "00e25318d3776113@41.js",
+  "version": "41.0.0",
+  "homepage": "https://observablehq.com/d/00e25318d3776113",
+  "author": {
+    "name": "Kitty Qi",
+    "url": "https://observablehq.com/@yufeifeiqiqi"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

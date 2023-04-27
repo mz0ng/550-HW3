@@ -1,0 +1,14 @@
+{
+  "name": "@jiminding/untitled",
+  "main": "83a3e1b9244b754f@162.js",
+  "version": "162.0.0",
+  "homepage": "https://observablehq.com/@jiminding/untitled",
+  "author": {
+    "name": "JiminDing",
+    "url": "https://observablehq.com/@jiminding"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

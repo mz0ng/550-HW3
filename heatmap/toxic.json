@@ -1,0 +1,18 @@
+{
+    "took": 492,
+    "timed_out": false,
+    "_shards": {
+       "total": 5,
+       "successful": 3,
+       "failed": 0
+    },
+    "hits": {
+       "total": 58,
+       "max_score": 0,
+       "hits": []
+    },
+    "aggregations": {
+       "world_map": {
+          "doc_count_error_upper_bound": 0,
+          "sum_other_doc_count": 0,
+          "buckets":[{"country":"AFG","count":1},{"country":"BRA","count":2},{"country":"CAN","count":2},{"country":"CHN","count":3},{"country":"COD","count":2},{"country":"CZE","count":1},{"country":"DEU","count":1},{"country":"GBR","count":3},{"country":"IND","count":5},{"country":"ISR","count":2},{"country":"ITA","count":2},{"country":"JOR","count":1},{"country":"LKA","count":1},{"country":"MDV","count":11},{"country":"NZL","count":1},{"country":"PAK","count":1},{"country":"PRY","count":1},{"country":"RUS","count":3},{"country":"TUR","count":1},{"country":"UKR","count":2},{"country":"USA","count":12}]}}}

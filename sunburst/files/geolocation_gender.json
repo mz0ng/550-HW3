@@ -1,0 +1,86 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Delhi",
+   "children": [
+    {"name":"female", "value":110},
+    {"name":"male", "value":337},
+    {"name":"others", "value":200}  
+     ]
+    },
+  {
+   "name": "British Indian Ocean Territory",
+   "children": [
+    {"name":"female", "value":511},
+    {"name":"male", "value":1385},
+    {"name":"others", "value":696}  
+     ]
+    },
+  {
+   "name": "Manchester",
+   "children": [
+    {"name":"female", "value":44},
+    {"name":"male", "value":935},
+    {"name":"others", "value":32}  
+     ]
+    },
+  {
+   "name": "Islamic Republic of Afghanistan",
+   "children": [
+    {"name":"female", "value":599},
+    {"name":"male", "value":186},
+    {"name":"others", "value":153}  
+     ]
+    },
+  {
+   "name": "Paris",
+   "children": [
+    {"name":"female", "value":81},
+    {"name":"male", "value":284},
+    {"name":"others", "value":143}  
+     ]
+    },
+  {
+   "name": "Town of Italy",
+   "children": [
+    {"name":"female", "value":41},
+    {"name":"male", "value":449},
+    {"name":"others", "value":16}  
+     ]
+    },
+  {
+   "name": "United States",
+   "children": [
+    {"name":"female", "value":123},
+    {"name":"male", "value":307},
+    {"name":"others", "value":71}  
+     ]
+    },
+  {
+   "name": "Islamic Republic of Pakistan",
+   "children": [
+    {"name":"female", "value":89},
+    {"name":"male", "value":257},
+    {"name":"others", "value":129}  
+     ]
+    },
+  {
+   "name": "Russian Federation",
+   "children": [
+    {"name":"female", "value":90},
+    {"name":"male", "value":316},
+    {"name":"others", "value":37}  
+     ]
+    },
+  {
+   "name": "Madrid",
+   "children": [
+    {"name":"female", "value":17},
+    {"name":"male", "value":356},
+    {"name":"others", "value":41}  
+     ]
+    }
+
+    ]
+}
